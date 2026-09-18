@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Ejercicio propuesto No 14: leer un número y obtener su cuadrado y su cubo.
  *
- * @author Andrés David Galeano Quintero
+ * @author Andrés David Galeano Quinteroa
  */
 public class Code_activida_14 {
     public static void main(String[] args) {
