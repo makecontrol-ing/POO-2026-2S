@@ -1,4 +1,4 @@
-# POO actividad
+# POO actividades
 
 Repositorio para la entrega de actividades de Programación Orientada a Objetos, semestre 2026-2S.
 
