@@ -6,6 +6,7 @@ Repositorio para la entrega de actividades de Programación Orientada a Objetos,
 - **Asignatura:** Programación Orientada a Objetos
 - **Actividad:** Actividad 1: primera entrega
 - **Actividad:** Actividad 2: segunda entrega
+- **Actividad:** Actividad 3: tercera entrega
 - **Estudiante:** Andrés David Galeano Quintero
 - **Docente:** Walter Hugo Arboleda Mazo
 
